@@ -25,5 +25,8 @@ a=a^b
 print(a)
 print(b)
 
+#Fourth Way:In python we can also simply use this.
+a,b =b,a
+
 
 
